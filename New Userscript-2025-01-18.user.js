@@ -10,8 +10,6 @@
 
 (function() {
     'use strict';
-
-    document.designMode='on'
     while (true) {
     setTimeout(() => {
     alert("Youtube is crash");
