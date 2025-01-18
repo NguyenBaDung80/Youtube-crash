@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         New Userscript
 // @namespace    http://tampermonkey.net/
-// @version      2025-01-18
-// @description  try to take over the world!
-// @author       You
+// @version      1.0.0
+// @description  hello.
+// @author       Nguyen Ba Dung
 // @match        https://www.youtube.com/
 // @grant        none
 // ==/UserScript==
