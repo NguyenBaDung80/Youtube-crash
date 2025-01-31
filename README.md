@@ -1,5 +1,5 @@
 How to use:
-1. Download the zip file
+1. Download https://github.com/NguyenBaDung80/Youtube-crash/archive/refs/heads/main.zip
 2. Extract that
 3. Go to https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en
 4. Download Tampermonkey
